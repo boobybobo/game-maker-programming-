@@ -35,6 +35,7 @@
   "name":"PROGRAMMING GAME",
   "resources":[
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
+    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"Obullet","path":"objects/Obullet/Obullet.yy",},},
     {"id":{"name":"Oenemy","path":"objects/Oenemy/Oenemy.yy",},},
     {"id":{"name":"Oplayer","path":"objects/Oplayer/Oplayer.yy",},},
